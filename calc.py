@@ -4,3 +4,4 @@ def calc(a,b);
     mul = a * b
     div = a / b
     mylist = [sum, sub, mul,div]
+    find_sum = mylist[0]
