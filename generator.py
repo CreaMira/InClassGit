@@ -1,0 +1,1 @@
+length = int(input(“Length of password = ”))
